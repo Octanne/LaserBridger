@@ -1,0 +1,7 @@
+﻿  Validating sources
+  Copying sources remotely to '86.244.29.235'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  Linking objects
+  LaserBridger.vcxproj -> C:\Users\Corentin\source\repos\PacketSniffer\LaserBridger\bin\ARM\Release\LaserBridger.out

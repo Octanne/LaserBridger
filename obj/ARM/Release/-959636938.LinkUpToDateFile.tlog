@@ -1,0 +1,1 @@
+g++ -o "/home/pi/projects/LaserBridger/bin/ARM/Release/LaserBridger.out" -Wl,--no-undefined -Wl,-L/usr/lib -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack -lwiringPi -pthread /home/pi/projects/LaserBridger/obj/ARM/Release/main.o /usr/lib/libwiringPi.so /usr/local/lib/libtins.so

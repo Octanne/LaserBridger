@@ -1,0 +1,10 @@
+﻿  Cleaning remote project directory
+  Validating sources
+  Copying sources remotely to '86.244.29.235'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  LaserStream.cpp
+  main.cpp
+  Linking objects
+  LaserBridger.vcxproj -> C:\Users\Corentin\source\repos\PacketSniffer\LaserBridger\bin\ARM\Debug\LaserBridger.out
